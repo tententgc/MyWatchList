@@ -1,6 +1,5 @@
-import { Menu, Transition } from "@headlessui/react";
-import imagearrow_down from "../images/icon-arrow-down.svg";
-import icontodo from "../images/icon-todo.svg";
+import { Menu } from "@headlessui/react";
+
 const NavMenu = () => {
   return (
     <nav>
